@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*My name is Ashlin*
+_I am doing by Btech_
+
+**This text will be bold**
+__This will also be bold__
+
+_You **can** combine them_
